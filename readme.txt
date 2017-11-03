@@ -1,0 +1,1 @@
+lora join后生成askey和nskey的算法
