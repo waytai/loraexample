@@ -16,5 +16,5 @@ utilities.o: utilities.c utilities.h
 	gcc -c utilities.c
 
 clean:
-	rm *.o
-	rm main
+	rm -rf *.o
+	rm -rf main
