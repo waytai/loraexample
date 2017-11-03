@@ -16,5 +16,6 @@ utilities.o: utilities.c utilities.h
 	gcc -c utilities.c
 
 clean:
+	@echo "rm .o files and main"
 	rm -rf *.o
 	rm -rf main
